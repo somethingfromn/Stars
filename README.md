@@ -14,12 +14,13 @@ Do not be lazy to put the stars in the sky for his glory.
 ## What have you been doing?
 
 
-### <ul> Projects (Free Hand for project)
+### Projects (Free Hand for project)
 
 #P1: 'Team-manger App' for student working as a team leader in HGU (2.8.19 ~ 23.11.19) <br>
 #P2: 'Exchange-courses App' for students in HGU (20.11.19 ~ 0.0.19) <br>
 #P3: 'About-Handong App' and 'KakaoChatbot' for students in HGU (25.11.19 ~ 0.0.19) <br>
-***
+
+---
 ### Courses in Computer Science
 
 #CCS1: Java course using Java-GUI in HGU<br>

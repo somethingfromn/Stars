@@ -22,8 +22,10 @@ Do not be lazy to put the stars in the sky for his glory.
 ### Courses in Computer Science
 
 #CCS1: Java course using Java-GUI in HGU<br>
-1)TP1 Fishing-Game using Java-GUI in HGU<br>
+1)TP1 Fishing-Game using Java-GUI in HGU
+
 #CCS2: OSS course using C and Java in HGU<br>
-1)PA1: SimpleChat using java<br>
+1)PA1: SimpleChat using java
+
 #CCS3: Data Structure using C++ in HGU <br>
 #CCS4: Discrete Mathematics course using javascript, C and Z3 in HGU <br>

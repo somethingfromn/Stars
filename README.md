@@ -12,7 +12,7 @@ Do not be lazy to put the stars in the sky for his glory.
 
 
 ## What have you been doing?
-
+---
 ### Projects (Free Hand for project)
 
 #P1: 'Team-manger App' for student working as a team leader in HGU (2.8.19 ~ 23.11.19) <br>

@@ -5,7 +5,9 @@ Do not be lazy to put the stars in the sky for his glory.
 ## Term of the words
 
 #P: project
+
 #CCS: Cource in Computer Science 
+
 #TP: Team Project
 #PA: Programming Assignment
 #HW: Homework
@@ -13,7 +15,7 @@ Do not be lazy to put the stars in the sky for his glory.
 
 ## What have you been doing?
 
-### Projects (Free Hand for project)
+### <ol> Projects (Free Hand for project)
 
 #P1: 'Team-manger App' for student working as a team leader in HGU (2.8.19 ~ 23.11.19)
 

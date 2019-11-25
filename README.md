@@ -16,7 +16,9 @@ Do not be lazy to put the stars in the sky for his glory.
 ## Projects (Free Hand for project)
 
 #P1: 'Team-manger App' for student working as a team leader in HGU (2.8.19 ~ 23.11.19)
+
 #P2: 'Exchange-courses App' for students in HGU (20.11.19 ~ 0.0.19)
+
 #P3: 'About-Handong App' and 'KakaoChatbot' for students in HGU (25.11.19 ~ 0.0.19)
 
 ## Courses in Computer Science

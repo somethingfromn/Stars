@@ -16,8 +16,8 @@ Do not be lazy to put the stars in the sky for his glory.
 
 ### Projects (Free Hand for project)
 
-#P1: __'Team-Manger App'__ for student working as a team leader in HGU (2.8.19 ~ 23.11.19) - __2nd prize__ in SW Festival in HGU <br>
-#P2: __'Exchange-Courses App'__ for students in HGU (20.11.19 ~ now) <br>
+#P1: __'Team-Manger App'__ for student working as a team leader in HGU (2.8.19 ~ 23.11.19) - __2nd prize__ for idea solution in SW Festival in HGU <br>
+#P2: __'Exchange-Courses App'__ for students to exchange the courses easily in HGU (20.11.19 ~ now) <br>
 #P3: __'About-Handong App'__ and __'KakaoChatbot'__ for students in HGU (25.11.19 ~ now) <br>
 
 ---

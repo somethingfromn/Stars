@@ -19,7 +19,7 @@ Do not be lazy to put the stars in the sky for his glory.
 #P1: __'Team-Manger App'__ for student working as a team leader in HGU (2.8.19 ~ 23.11.19)<br> 
 → __2nd prize__ for idea solution in SW Festival was held in HGU ☆ <br>
 #P2: __'Exchange-Courses App'__ for students to exchange the courses easily in HGU (20.11.19 ~ now) <br>
-#P3: __'About-Handong App'__ and __'KakaoChatbot'__ for students in HGU (25.11.19 ~ now) <br>
+#P3: __'About-Handong App'__ and __'KakaoChatbot'__ for students wants to ask anything in HGU (25.11.19 ~ now) <br>
 
 ---
 ### Courses in Computer Science

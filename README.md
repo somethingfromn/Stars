@@ -13,6 +13,11 @@ Do not be lazy to put the stars in the sky for his glory!!
 ## What have you been doing?
 
 
+### Training myself
+
+Developing the coding skills with problmes on website EVERYDAY.
+
+
 ### Projects (Free Hand for project)
 
 #P1: __'Team-Manger App'__ for student working as a team leader in HGU (2.8.19 ~ 23.11.19)<br> 
@@ -33,6 +38,3 @@ Do not be lazy to put the stars in the sky for his glory!!
 
 #CCS4: Discrete Mathematics course using javascript, C and Z3 in HGU <br>
 
-### Training myself
-
-Developing the coding skills with problmes on website EVERYDAY.

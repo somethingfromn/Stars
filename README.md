@@ -32,3 +32,7 @@ Do not be lazy to put the stars in the sky for his glory!!
 #CCS3: Data Structure using C++ in HGU <br>
 
 #CCS4: Discrete Mathematics course using javascript, C and Z3 in HGU <br>
+
+### Training myself
+
+Developing the coding skills with problmes on website EVERYDAY.

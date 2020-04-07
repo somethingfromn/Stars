@@ -13,7 +13,7 @@ Do not be lazy to put the stars in the sky for his glory!!
 ## What have you been doing?
 
 
-### Training myself
+### Training
 
 Developing the coding skills with problmes on website EVERYDAY.
 

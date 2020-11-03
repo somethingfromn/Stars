@@ -4,7 +4,8 @@
 #Software Engineer <br>
 #Want a startup for making better world <br>
 #Christian <br>
-#not married
+#Not married
+#interested in Machine Learning
 
 ## Term of the words
 

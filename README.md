@@ -1,9 +1,9 @@
 ## Info
 
-#27 yrs old man
-#Software Engineer
-#Want a startup for making better world
-#Christian 
+#27 yrs old man <br>
+#Software Engineer <br>
+#Want a startup for making better world <br>
+#Christian <br>
 
 ## Term of the words
 

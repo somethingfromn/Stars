@@ -1,7 +1,9 @@
-# Stars
+## Info
 
-1) Do not be lazy to put the stars in the sky for his glory!
-2) Do not focus on other's step not to get stressful, but your steps to complete your mission (from military Battle Station in General Quarters)
+#27 yrs old man
+#Software Engineer
+#Want a startup for making better world
+#Christian 
 
 ## Term of the words
 
